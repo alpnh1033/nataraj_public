@@ -1,0 +1,4 @@
+# python 3.11
+tensorflow==2.15.0
+numpy==1.26.4
+pillow==12.3.0
